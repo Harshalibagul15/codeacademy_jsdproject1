@@ -1,0 +1,53 @@
+/* page2 */
+.main {
+    padding: 40px;
+    
+    
+}
+.main-image img {
+    width: 100%;
+    size: 80%
+}
+    
+
+.content {
+    padding: 24px 32px;
+}
+
+.col-md-4.sidebar-img img{
+    width: 100%; 
+    height: 95%;
+    object-fit: cover; 
+    
+    
+}
+.col-md-4 .sidebar-img{
+    padding-left: 0px;
+    margin-top: 0px;
+    
+}
+
+.col-md-8 .sidebar-content{
+    padding-left: 20px;
+    margin-left: 100px;
+}
+.col-md-8 .sidebar-content h4 {
+    font-size: 22px;
+    flex: 1;
+    margin-left: 0px;
+   
+}
+
+.col-md-8 .sidebar-content h4{
+    padding-left: 100%;
+}
+.small-text {
+    font-size: 14px;
+}
+
+.row-md-4 {
+    display: flex;
+    align-items: center; 
+    margin-bottom: 20px;
+    
+}
